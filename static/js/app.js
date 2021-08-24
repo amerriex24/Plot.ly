@@ -116,7 +116,7 @@ function plotCharts(id) {
             y: topOtuIdsFormatted,
             text: topOtuLabels,
             type: 'bar',
-            orientation: 'h',
+            orientation: 'v',
             marker: {
                 color: 'rgb(29,145,192)'
             }
